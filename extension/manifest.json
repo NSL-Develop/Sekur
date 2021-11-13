@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Sekur",
+    "description": "Ethereum security tool",
+    "version": "1.0.0",
+    "author": "NSL-Develop",
+    "action": {
+        "default_icon": "assets/img/icon64.png",
+        "default_title": "Sekur",
+        "default_popup": "popup.html"
+    }
+}
